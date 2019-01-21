@@ -12,6 +12,7 @@
 |[高性能MySQL 第3版]|计划中|
 |[图解HTTP]|计划中|
 |[HTTP权威指南]|计划中|
+|[前端  webpack + vue]|2019年1月 ~ |
 |:heart:[bootstrap](http://www.bootcss.com/)|2019年1月|
 |:heart:[laravel](https://www.golaravel.com/)|2019年1月~|
 |:heart:[PHP7内核剖析](https://book.douban.com/subject/27197032/)|2018年4月~2018年12月|
